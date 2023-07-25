@@ -64,7 +64,7 @@ void setup()
     randomSeed(analogRead(A0));
 
     // uncomment if you want to reset high score
-    resetHighScore();
+    // resetHighScore();
 
     // Initial msgs
     welcomeMessage(); 
